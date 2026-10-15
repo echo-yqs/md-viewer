@@ -1,0 +1,20 @@
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+
+# PyInstaller 构建产物
+build/
+dist/
+*.spec
+
+# 临时/测试残留
+_*.py
+_*.log
+_*.md
+_*.html
+_*.txt
+
+# 系统
+Thumbs.db
+desktop.ini
